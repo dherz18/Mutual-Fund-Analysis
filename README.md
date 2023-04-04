@@ -8,9 +8,9 @@ Data
 
 The analysis will be conducted using three data sources:
 
-1.Fund Data - Monthly return data for three hypothetical mutual funds. (https://www.dropbox.com/scl/fi/i84z3g58ccgf1dg9cmd0m/Funds.xlsx?dl=0&rlkey=yzgks0t96n6cnxu6amau6p1qo)
-2.Benchmark Data - Monthly return data for a benchmark that we will assume is the benchmark for the three mutual funds. (https://www.dropbox.com/scl/fi/9i1vutbd5908vw1g8qfjm/Bmark.xlsx?dl=0&rlkey=mcj64ud1cak14rbkjdwtc8fiv)
-3.Factor Data - The Fama/French Developed 3 Factors dataset, which will be sourced from the Ken French data library at the following address: http://mba.tuck.dartmouth.edu/pages/faculty/ken.french/data_library.html
+1. Fund Data - Monthly return data for three hypothetical mutual funds. (https://www.dropbox.com/scl/fi/i84z3g58ccgf1dg9cmd0m/Funds.xlsx?dl=0&rlkey=yzgks0t96n6cnxu6amau6p1qo)
+2. Benchmark Data - Monthly return data for a benchmark that we will assume is the benchmark for the three mutual funds. (https://www.dropbox.com/scl/fi/9i1vutbd5908vw1g8qfjm/Bmark.xlsx?dl=0&rlkey=mcj64ud1cak14rbkjdwtc8fiv)
+3. Factor Data - The Fama/French Developed 3 Factors dataset, which will be sourced from the Ken French data library at the following address: http://mba.tuck.dartmouth.edu/pages/faculty/ken.french/data_library.html
 Analysis
 
 The analysis consists of two parts:
